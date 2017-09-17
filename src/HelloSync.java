@@ -7,5 +7,7 @@ public class HelloSync {
 		// Say hello
 		System.out.print("Hello from school");
 	}
-		System.out.print("Hello from home");
+		System.out.print("I can't stop saying hi!!")
+	
+		System.out.print("Hello from home!");
 }
